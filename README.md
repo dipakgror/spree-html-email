@@ -1,5 +1,5 @@
 Spree Html Email
-==============
+================
 Adds HTML Email support to Spree. Uses ERB for templates.
 
 Provides an html layout for all emails and html templates for all of Spree's built in emails.
@@ -9,17 +9,17 @@ Some of the HTML structure uses classes in the `core.less` stylesheet from the H
 found here: https://github.com/iloveitaly/email-newsletter-toolkit
 
 Installation & Usage
-===============
+====================
 Add Spree HTML email to your gemfile, and run bundle install:
 
-`gem "spree_html_email", github: 'Lordnibbler/spree-html-email'`
+`gem 'spree_html_email', github: 'boombotix/spree-html-email'`
 
 
-Authors
-===============
+Contributors
+============
 * Joshua Nussbaum, @joshnuss
 * Michael Bianco, @iloveitaly
 * Ben Radler, @benradler
 
-Copyright (c) 2014 Ben Radler, released under the New BSD License
+Released under the New BSD License
 
